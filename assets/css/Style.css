@@ -7,8 +7,8 @@ layout: Stylesheet
 
 :root {
     --main-hue: 0;
-    /* --primary-bg-color: hsl(var(--main-hue), 0%, 100%); */
-    --primary-bg-color: #000;
+    --primary-bg-color: hsl(var(--main-hue), 0%, 100%);
+    /* --primary-bg-color: #000; */
     --secondary-bg-color: hsl(var(--main-hue), 0%, 96.9%);
     --ternary-bg-color: hsl(var(--main-hue), 0%, 91.4%);
     --quaternary-bg-color: hsl(var(--main-hue), 0%, 93%);
@@ -21,8 +21,8 @@ layout: Stylesheet
     --primary-box-shadow-color: hsl(var(--main-hue), 0%, 86.7%);
     --secondary-box-shadow-color: hsl(var(--main-hue), 0%, 81.2%);
 
-    /* --primary-text-color: hsl(var(--main-hue), 0%, 33.3%); */
-    --primary-text-color: #fff;
+    --primary-text-color: hsl(var(--main-hue), 0%, 33.3%);
+    /* --primary-text-color: #fff; */
     --secondary-text-color: hsl(var(--main-hue), 0%, 53.3%);
     --tertiary-text-color: hsl(var(--main-hue), 0%, 43.4%);
 
